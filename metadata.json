@@ -1,0 +1,6 @@
+{
+  "name": "Spaced Study Planner",
+  "description": "A dynamic study planner application focused on evidence-based learning techniques like Spaced Repetition and Active Recall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
